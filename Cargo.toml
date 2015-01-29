@@ -1,0 +1,17 @@
+[package]
+
+name = "rust-dpdk"
+version = "0.0.1"
+authors = ["Robert Clipsham <robert@octarineparrot.com>"]
+homepage = "http://dpdk.org/"
+repository = "https://github.com/libpnet/rust-dpdk"
+license = "BSD-3-Clause"
+description = "Bindings to Intel DPDK: Data Plane Development Kit"
+readme = "README.md"
+keywords = ["networking", "packet", "bindings"]
+
+#[build-dependencies.rust-bindgen]
+#git = "https://github.com/crabtw/rust-bindgen.git"
+#
+#[build-dependencies]
+#regex = "*"
